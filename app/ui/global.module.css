@@ -1,0 +1,9 @@
+.shape{
+    height: 0;
+    width: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 150px solid rgb(216, 145, 12);
+    filter: drop-shadow(.8pc .48pc 6px rgb(219, 223, 5));
+    position: relative;
+}
